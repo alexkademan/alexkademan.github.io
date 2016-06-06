@@ -6,29 +6,32 @@
 </description>
     <link>http://alexkademan.github.io/</link>
     <atom:link href="http://alexkademan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2016 11:31:05 -0500</pubDate>
-    <lastBuildDate>Thu, 26 May 2016 11:31:05 -0500</lastBuildDate>
+    <pubDate>Mon, 06 Jun 2016 16:54:00 -0500</pubDate>
+    <lastBuildDate>Mon, 06 Jun 2016 16:54:00 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Sample post for formatting the page</title>
-        <description>&lt;p&gt;So, the point of this blog is to talk about whats going on with my work. As I become a better developer over time, I will share what I’m doing with the world through this website. Therefore, I expect the posts to be text heavy and sometimes include code snippets.&lt;/p&gt;
+        <description>&lt;p&gt;The working title of this page was “How to Burn Out!”&lt;/p&gt;
 
-&lt;p&gt;This is the type of thing that I’m talking about here….&lt;/p&gt;
+&lt;p&gt;I’ve been doing web design since a time when Photoshop was still a must-have utility for creating HTML tables. I’ve witnessed first hand the horrors of IE 6, and concocted all kinds of spaghetti driven Flash monstrosities that I’d rather not talk about.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;I bring this up to illustrate the fact that I’ve known since the early days of my career that my tolerance for pain in the name of honing my craft is pretty high!&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;k&quot;&gt;@mixin&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;media-query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$device&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;@media&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$device&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;@content&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Actionscript was the first language I learned. Of course I never mastered it. At all. It was a weird way to jump into programming. I know that I’m not the only person out there who was drawn towards building things on the web through Flash, but I know that I could have found a more traditional point of entry.&lt;/p&gt;
 
-&lt;p&gt;I’m only writing all of this here so that I have somethign to style as I build out the wireframe and site design. I’m only writing all of this here so that I have somethign to style as I build out the wireframe and site design. I’m only writing all of this here so that I have somethign to style as I build out the wireframe and site design.&lt;/p&gt;
+&lt;p&gt;Later came WordPress. These days I am no fan of WordPress. You won’t catch me building things in WP for fun, but I admit that it taught me a great deal about PHP. Fortunately it wasn’t my only teacher. I’ve spent more time with other monolithic PHP applications, and WordPress still boggles my mind in terms of some of it’s design decisions under the hood.&lt;/p&gt;
 
-&lt;p&gt;I’m only writing all of this here so that I have somethign to style as I build out the wireframe and site design.&lt;/p&gt;
+&lt;p&gt;The skill that came least naturally was Javascript. Despite knowing a few things about Actionscript, Javascript eluded me for a long while. When I finally gained some mastery of the basics I was absolutely blindsided by the pace at which Javascript is moving the web forward.&lt;/p&gt;
 
-&lt;p&gt;I’m only writing all of this here so that I have somethign to style as I build out the wireframe and site design. I’m only writing all of this here so that I have somethign to style as I build out the wireframe and site design.&lt;/p&gt;
+&lt;p&gt;These days I have a fairly good grasp of all the parts of what makes a website. I’ve managed numerous interrelated domains from the same VPS, installed and re-configured SSL certificates, brought websites up to PCI compliance (with MUCH help) and done my share of sifting through error logs for days on end.&lt;/p&gt;
+
+&lt;p&gt;My point is, even now that I’ve done those things I would NOT refer to myself as “Full Stack”. While I’m sure there are people out there who could call themselves that, I’ll never say it of myself.&lt;/p&gt;
+
+&lt;p&gt;The disciplines that I have forced myself to learn are varied. What keeps a server administrator up at night shouldn’t have to be the concerns of the person who is overseeing however many thousands of lines of CSS that sit within the website that lives on that server.&lt;/p&gt;
+
+&lt;p&gt;I am sure there are superheroes out there who can stay on top of a website’s back-end needs while concurrently implementing a fool-proof UX strategy. I only know that I have tried, and it has taught me a lot about exhaustion.&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 13 Feb 2016 15:53:16 -0600</pubDate>
         <link>http://alexkademan.github.io/jekyll/update/2016/02/13/how-to-burn-out.html</link>
